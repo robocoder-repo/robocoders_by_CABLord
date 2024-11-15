@@ -1,0 +1,16 @@
+{
+  "name": "robocoders_by_cablord",
+  "version": "1.0.0",
+  "description": "An interactive chat interface using the Robocoders.ai API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["robocoders", "chat", "api"],
+  "author": "Lorik Bajgora (https://github.com/CABLord)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0"
+  }
+}
